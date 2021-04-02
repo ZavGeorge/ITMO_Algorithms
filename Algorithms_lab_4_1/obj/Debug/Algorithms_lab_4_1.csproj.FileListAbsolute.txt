@@ -1,0 +1,5 @@
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Debug\Algorithms_lab_4_1.Form1.resources
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Debug\Algorithms_lab_4_1.Latter.resources
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Debug\Algorithms_lab_4_1.Properties.Resources.resources
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Debug\Algorithms_lab_4_1.csproj.GenerateResource.cache
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Debug\Algorithms_lab_4_1.csproj.CoreCompileInputs.cache

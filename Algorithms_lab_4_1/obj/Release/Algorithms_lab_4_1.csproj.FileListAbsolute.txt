@@ -1,0 +1,11 @@
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Release\Algorithms_lab_4_1.csprojAssemblyReference.cache
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Release\Algorithms_lab_4_1.Form1.resources
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Release\Algorithms_lab_4_1.Latter.resources
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Release\Algorithms_lab_4_1.Properties.Resources.resources
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Release\Algorithms_lab_4_1.csproj.GenerateResource.cache
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Release\Algorithms_lab_4_1.csproj.CoreCompileInputs.cache
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\bin\Release\Algorithms_lab_4_1.exe.config
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\bin\Release\Algorithms_lab_4_1.exe
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\bin\Release\Algorithms_lab_4_1.pdb
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Release\Algorithms_lab_4_1.exe
+C:\Users\ZavGe\source\repos\Algorithms_lab_4\Algorithms_lab_4_1\obj\Release\Algorithms_lab_4_1.pdb
