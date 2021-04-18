@@ -20,10 +20,8 @@ namespace Algorithms_lab_5
 
         public override string ToString()
         {
-            return $"({From}; {To})";
+            return $"({From}; {To}; {Weight})";
         }
-
-
 
     }
 }
