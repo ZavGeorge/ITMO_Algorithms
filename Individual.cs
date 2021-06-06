@@ -8,7 +8,7 @@ namespace Algorithms_lab_9
     {
 
         private int[] genome = new int[4];
-        public float likelihood { get; Sset; }
+        public float likelihood { get; set; }
         public int[] GetGenome()
         {
             return genome;
